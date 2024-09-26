@@ -16,3 +16,4 @@ https://hub.docker.com/r/marpteam/marp-cli/
 ```Bash
 marp -w --html ./slides.md
 ```
+[Install cli tool](https://github.com/marp-team/marp-cli?tab=readme-ov-file#install)
