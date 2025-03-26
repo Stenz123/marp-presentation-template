@@ -17,3 +17,7 @@ https://hub.docker.com/r/marpteam/marp-cli/
 marp -w --html ./slides.md
 ```
 [Install cli tool](https://github.com/marp-team/marp-cli?tab=readme-ov-file#install)
+
+## GH-Pages
+To enable GH-Pages navigate to `Settings` -> `Pages` -> Select deploy from a branch -> `Save`
+The page should be deployed to `https://[user-name].github.io/[repository-name]`.
